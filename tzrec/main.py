@@ -22,7 +22,6 @@ from collections import OrderedDict
 from queue import Queue
 from threading import Thread
 from typing import Any, Dict, List, Optional, Tuple, Union
-
 import pyarrow as pa
 import torch
 from torch import distributed as dist
